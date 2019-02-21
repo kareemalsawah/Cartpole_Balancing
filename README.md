@@ -8,5 +8,8 @@ This method is also very simple, but it still has the dimensionality problem (co
 
 ### The cartpole balancing game
 I used the OpenAI's gym environment to run the game. The game is very simple. The player controls a cart that he/she can move to the left or to the right. The player should try to balance a pole that is standing vertically on the cart without the pole going out of control and falling.
+
+<br/>
+
 <img src="img/cartpole_game.png">
 The game is considered solved if, according to OpenAI's documentation, "when the average reward is greater than or equal to 195.0 over 100 consecutive trials". I will try to accomplish it in the least time..
